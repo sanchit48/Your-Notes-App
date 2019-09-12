@@ -1,4 +1,4 @@
-# Your-Notes-App
+# Your Notes
 
 
 ## About
@@ -11,7 +11,7 @@ This is a simple note taking app which has a nice authentication system made wit
 - A nice and simple UI which takes you easily throughout the authentication process.
 - Feature of adding and deleting note.
 
-## .APK file
+## Apk file
 
 - https://drive.google.com/file/d/1HGi3KCefnbfBK0lYGtdnfNlFoqUpB6Oc/view?usp=sharing
 
