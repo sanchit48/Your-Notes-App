@@ -11,11 +11,6 @@ This is a simple note taking app which has a nice authentication system made wit
 - A nice and simple UI which takes you easily throughout the authentication process.
 - Feature of adding and deleting note.
 
-## Apk file
-
-- https://drive.google.com/file/d/1HGi3KCefnbfBK0lYGtdnfNlFoqUpB6Oc/view?usp=sharing
-
-
 ## Screenshots
 
  <img src="Images/Main.jpeg" width="280" height="500" /> <img src="Images/Login.jpeg" width="280" height="500" /> | <img src="Images/SignUp.jpeg" width="280" height="500" /> |  
